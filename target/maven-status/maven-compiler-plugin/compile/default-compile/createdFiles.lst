@@ -1,0 +1,15 @@
+nl/sapperheroes/dao/UserDao.class
+nl/sapperheroes/model/user/Hero.class
+nl/sapperheroes/model/user/User.class
+nl/sapperheroes/model/user/Client.class
+nl/sapperheroes/dao/GenericDao.class
+nl/sapperheroes/controller/VersionController$1.class
+nl/sapperheroes/dao/JobDao.class
+nl/sapperheroes/model/jobs/Job.class
+nl/sapperheroes/service/UserService.class
+nl/sapperheroes/controller/JobController.class
+nl/sapperheroes/model/jobs/JobType.class
+nl/sapperheroes/controller/UserController.class
+nl/sapperheroes/service/JobService.class
+nl/sapperheroes/controller/VersionController$ApiVersion.class
+nl/sapperheroes/controller/VersionController.class
